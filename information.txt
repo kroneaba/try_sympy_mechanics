@@ -1,0 +1,7 @@
+Based on the publication Rossi21: Optimization routine for mechanisms design with Python. 2021 (linkedin.com) a similar mechanism is analysed and optimized using Sympy und Scipy. A detailed description of the analysos can be found under the following link:
+
+https://alban223124818.wordpress.com/2024/02/27/optimization-of-a-mechanism-with-python/
+
+File ClampMechanismt.py is the script with an optimization close to that of Rossi,
+
+File ClampMechanism_PEopt.py is a modification with additional design variables.
